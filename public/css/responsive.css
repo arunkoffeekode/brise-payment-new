@@ -1,0 +1,105 @@
+@charset "utf-8"; /* CSS Document */
+/* Extra large devices (large desktops, 1200px and up) */
+
+@media (min-width: 992px) and (min-width: 1200px) {  
+	
+   
+}
+@media only screen and (min-width: 993px) {
+
+}
+@media only screen and (min-width: 992px) {
+
+
+}
+
+/* width: 991px; */
+
+@media screen and (max-width: 61.938em) {
+ */
+    .navbar-toggler span{width: 22px;}
+    .navbar-brand{margin-right: 6px!important;}
+    .navbar-default.navbar-trans .dropdown{margin-left: 0px;}
+
+   
+     .navbar-nav {flex-direction: row;display: block;}
+     .navbar-nav li{margin-bottom: 15px;}
+
+    .pay-brise .brise-chain{padding: 50px 20px 50px 20px;}
+    .secure-payment{padding: 20px;}
+
+}
+
+/*============	Media 768Px Start ============ */
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+
+
+}
+
+/* Medium devices (tablets, 768px and up) The navbar toggle appears at this breakpoint */
+
+@media (min-width: 320px) and (max-width: 768px) {
+
+}
+
+@media only screen and (min-width:768px) {
+
+
+}
+
+/*---------- MEDIA 480px ----------*/
+@media  (max-width: 768px) {
+  
+
+}
+@media  (max-width: 480px) {
+    
+
+}
+@media (max-width: 991px) {
+  
+}
+
+/*============ Media 300Px Star ============ */
+
+@media (max-width: 480px) {
+
+    .navbar .right-side {margin-top: 10px;}
+    .navbar .right-side ul li{margin-bottom: 15px;}
+ 
+    .navbar .bitgert-btn{padding: 10px;}
+    .brise-payble-section .pay-amt{margin-top: 20px;}
+    .brise-payble-section .pay-amt .pay-title{text-align: left;}
+    .brise-payble-section .pay-amt .pay{text-align: left;}
+    .secure-payment .pay-box .label-first{width: 100%;}
+    .secure-payment .pay-box .label-second{width: 100%;margin-top: 20px;margin-bottom: 10px;}
+    .secure-payment .pay-box .label-box{display: block;}
+    .secure-payment .pay-box .label-second .pay-btn{width: 100%;}
+}
+
+/*============ Media 320Px Start ============ */
+
+@media (max-width: 320px) {
+	
+}
+
+@media only screen and (max-width: 991.98px) {
+	
+	
+	
+}
+
+@media only screen and (max-width: 767.98px) {
+	
+
+}
+@media (min-width: 576px){
+ 
+	
+}
+/* Medium devices (tablets, 768px and up) The navbar toggle appears at this breakpoint */
+@media (min-width: 768px) {
+
+}
